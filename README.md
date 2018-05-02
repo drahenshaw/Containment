@@ -1,6 +1,6 @@
 # Containment
 
-TZombie wave survival game using Simple & Fast Multimedia Libarary and C++
+Zombie wave survival game using Simple & Fast Multimedia Libarary and C++
 
 ## Authors
 
